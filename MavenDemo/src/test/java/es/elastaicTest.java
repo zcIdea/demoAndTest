@@ -47,6 +47,8 @@ import org.junit.Test;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import elasticsearch.Student;
+
 /**
  * 参考地址：
  *    https://blog.csdn.net/ty4315/article/details/52434296
