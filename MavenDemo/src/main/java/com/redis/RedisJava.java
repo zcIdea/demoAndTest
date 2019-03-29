@@ -44,8 +44,5 @@ public class RedisJava {
             String key = it.next();   
             System.out.println(key);   
         }
-        
-        
-        
     }
 }
